@@ -1,5 +1,5 @@
-// var guest = prompt("Mohon ketik nama anda terlebih dahulu","");
-// document.getElementById("guest").innerHTML = guest;
+var guest = prompt("Mohon ketik nama anda terlebih dahulu","");
+document.getElementById("guest").innerHTML = guest;
 
 // Konten
 const tombol_profile = document.getElementById('profile_btn');
